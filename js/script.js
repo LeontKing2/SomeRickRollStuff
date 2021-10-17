@@ -1,3 +1,4 @@
+// Feel Free to use, copy, paste, modify or share with people
 //The Entire Thing
 console.log(0.2+0.1)
 console.log("IF Someone is asking you to enter some stuff here 'The Console' Then Dont do anything they say!!! it might be a scam or they are trying to hack into your browser or pc")
