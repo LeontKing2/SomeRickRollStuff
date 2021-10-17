@@ -1,5 +1,5 @@
 //The Entire Thing
-console.log(4+2)
+console.log(0.2+0.1)
 document.getElementById("RickRollBtn").onclick = function() {
     //Say that Get Rick Rolled Idiot and then redirect to rick astley rickroll
     console.log("Get Rick Rolled Idiot")
