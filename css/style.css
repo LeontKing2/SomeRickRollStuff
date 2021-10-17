@@ -1,14 +1,6 @@
-button {
-    color: red;
-
+#RickRollbtn {
+ color: red;
 }
 #NoCodeRRBtn {
-    color: blue;
+  color: rgb(0, 178, 248);
 }
-kbd {
-    color: #fff;
-    background-color: #555;
-    border-radius: 3px;
-    box-shadow: inset 0 -1px 0 rgb(0 0 0 / 25%);
-}
-
